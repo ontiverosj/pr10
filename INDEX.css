@@ -1,0 +1,72 @@
+.body {
+height: 100vh;
+background: linear-gradient(to bottom,blue 0%, black 100%);
+padding: 100px;
+}
+
+
+    .box1 {
+    border-radius:0px 17px 20px 22px ;
+    padding: px;
+    Width:350px;
+    height:360px;
+    
+  }
+  
+  
+
+input{
+    height:0px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 50px;
+    width: 330px;
+    border: none;
+    flex-direction: column;
+    font-size: 2.0em;
+    margin: 7px 0 0 0 ;
+    text-align: center;
+   font-family:fantasy
+}
+ 
+  #hello {
+    color:white; 
+    text-align: center;
+    padding: 2px;
+    letter-spacing: 10px;
+    font-size: 60px;
+    font-family: fantasy
+     }
+
+
+  #mynameis {
+    color:white;
+    letter-spacing: 3px;
+    font-family: fantasy;
+  }
+  
+  
+  
+   .box2 {
+   text-align:center; 
+   background-color:red;
+    height: 300px;
+    width:500px;
+   border-radius: 15px ;
+    line-height: 6px;
+    font-size:15px;
+    padding: 1px;
+        
+  }
+  
+  
+  #card {
+    line-height: 350%;
+    background-color:white;
+     height:100px;
+     padding:20px;
+      width: 460px;
+      
+    }
+  
