@@ -1,1 +1,4 @@
-# pr10
+So I got to here when you type in a name it will show the out put box "hey Jake" but I cant see how I can get it to stay on the main screen. 
+I link my js to the header, and I connectied the function to the button, I honestly played around with it for hours and honestly I feel like I want to pull out my hair... I think the best place it to put it in the header I find everything works there I did have it at the botom and it work just fine but it might just be a prefference thing. 
+so I like storing the css and js in a external file because I am able to keep everything separate from each design file. and it keeps me detailed and orginized. 
+I tried to do that button thing I upload one that said "hey jake" but its only there for a second and then leaves I am sure Ill figure it out how to put it on later. 
